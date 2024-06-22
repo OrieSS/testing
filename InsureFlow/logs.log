@@ -1,0 +1,29 @@
+2024-06-16 16:13:20,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-16 16:13:20,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-16 16:13:20,941:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-16 16:13:20,941:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-16 16:13:22,329:INFO:PyCaret RegressionExperiment
+2024-06-16 16:13:22,329:INFO:Logging name: reg-default-name
+2024-06-16 16:13:22,329:INFO:ML Usecase: MLUsecase.REGRESSION
+2024-06-16 16:13:22,329:INFO:version 3.3.2
+2024-06-16 16:13:22,329:INFO:Initializing setup()
+2024-06-16 16:13:22,329:INFO:self.USI: 41a3
+2024-06-16 16:13:22,329:INFO:self._variable_keys: {'target_param', 'y', 'seed', 'n_jobs_param', 'html_param', '_ml_usecase', 'logging_param', 'memory', 'gpu_param', '_available_plots', 'USI', 'pipeline', 'X', 'log_plots_param', 'transform_target_param', 'exp_id', 'X_test', 'y_test', 'idx', 'data', 'fold_generator', 'fold_shuffle_param', 'X_train', 'gpu_n_jobs_param', 'y_train', 'fold_groups_param', 'exp_name_log'}
+2024-06-16 16:13:22,329:INFO:Checking environment
+2024-06-16 16:13:22,329:INFO:python_version: 3.10.5
+2024-06-16 16:13:22,329:INFO:python_build: ('v3.10.5:f377153967', 'Jun  6 2022 12:36:10')
+2024-06-16 16:13:22,329:INFO:machine: x86_64
+2024-06-16 16:13:22,369:INFO:platform: macOS-14.5-x86_64-i386-64bit
+2024-06-16 16:13:22,370:INFO:Memory: svmem(total=17179869184, available=1264984064, percent=92.6, used=1728303104, free=20348928, active=1242775552, inactive=1214353408, wired=485527552)
+2024-06-16 16:13:22,370:INFO:Physical Core: 8
+2024-06-16 16:13:22,370:INFO:Logical Core: 8
+2024-06-16 16:13:22,370:INFO:Checking libraries
+2024-06-16 16:13:22,370:INFO:System:
+2024-06-16 16:13:22,370:INFO:    python: 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)]
+2024-06-16 16:13:22,370:INFO:executable: /Users/nitinsinghrawat/testing/bin/python
+2024-06-16 16:13:22,370:INFO:   machine: macOS-14.5-x86_64-i386-64bit
+2024-06-16 16:13:22,370:INFO:PyCaret required dependencies:
